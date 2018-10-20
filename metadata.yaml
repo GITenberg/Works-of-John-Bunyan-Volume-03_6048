@@ -1,5 +1,5 @@
 _repo: Works-of-John-Bunyan-Volume-03_6048
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -40,5 +40,6 @@ subjects:
 - !lcsh 'Puritans -- England -- Biography'
 - !lcc 'BR'
 - !lcsh 'Authors, English -- Early modern, 1500-1700 -- Biography'
+- GITenberg
 title: Works of John Bunyan — Volume 03
 url: http://www.gutenberg.org/ebooks/6048
